@@ -67,7 +67,9 @@ python log_output.py \
 
 `--type` must be one of `lab_canon`, `lit_review`, `summary`, or `deep_research`.
 
-## Inspect With DuckDB SQL
+## Inspect With DuckDB SQL. 
+
+First make sure you are already in DuckDB CLI.
 
 List tables:
 
